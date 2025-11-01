@@ -1,13 +1,13 @@
 #PT站
-- DOMAIN-SUFFIX,hdtime.org,DIRECT
-- DOMAIN-SUFFIX,next.m-team.cc,DIRECT
-- DOMAIN-SUFFIX,nicept.net,DIRECT
-- DOMAIN-SUFFIX,pt.btschool.club,DIRECT
-- DOMAIN-SUFFIX,rousi.zip,DIRECT
-- DOMAIN-SUFFIX,ptcafe.club,DIRECT
-- DOMAIN-SUFFIX,cspt.top,DIRECT
-- DOMAIN-SUFFIX,carpt.net,DIRECT
-- DOMAIN-SUFFIX,52pt.site,DIRECT
-- DOMAIN-SUFFIX,pandapt.net,DIRECT
-- DOMAIN-SUFFIX,www.pttime.org,DIRECT
-- DOMAIN-SUFFIX,www.ptskit.org,DIRECT
+- DOMAIN-SUFFIX,hdtime.org
+- DOMAIN-SUFFIX,next.m-team.cc
+- DOMAIN-SUFFIX,nicept.net
+- DOMAIN-SUFFIX,pt.btschool.club
+- DOMAIN-SUFFIX,rousi.zip
+- DOMAIN-SUFFIX,ptcafe.club
+- DOMAIN-SUFFIX,cspt.top
+- DOMAIN-SUFFIX,carpt.net
+- DOMAIN-SUFFIX,52pt.site
+- DOMAIN-SUFFIX,pandapt.net
+- DOMAIN-SUFFIX,www.pttime.org
+- DOMAIN-SUFFIX,www.ptskit.org
