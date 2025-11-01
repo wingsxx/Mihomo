@@ -1,6 +1,7 @@
 #PT站
-hdtime.org
-next.m-team.cc
-nicept.net
-pt.btschool.club
-rousi.zip
+payload:
+  - DOMAIN,hdtime.org
+  - DOMAIN,next.m-team.cc
+  - DOMAIN,nicept.net
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,rousi.zip
