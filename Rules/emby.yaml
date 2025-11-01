@@ -1,4 +1,5 @@
 #emby服
+payload:
   - '191920.xyz'
   - 'pub1.term.wtf'
   - 'pub3.emby.wtf'
